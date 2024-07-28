@@ -1,0 +1,17 @@
+{
+    "name": "advanced-service-worker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "vite build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/chrome": "0.0.134",
+        "vite": "^2.1.5",
+        "vite-plugin-chrome-extension": "../.."
+    }
+}
